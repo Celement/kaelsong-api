@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn install *)",
+      "Bash(where yarn *)",
+      "Bash(cmd /c \"where yarn\")",
+      "Bash(powershell *)"
+    ]
+  }
+}

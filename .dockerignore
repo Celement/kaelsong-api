@@ -1,0 +1,25 @@
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (runtime)
+data/
+
+# Binaries
+one-api
+dist/
+
+# Development files
+web/node_modules/
+web/.git/
